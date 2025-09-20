@@ -2,7 +2,7 @@
 
 **Strict Mom** is an accountability app that acts like a tough but caring coach.  
 MVP: Fitness accountability agent (goals, reminders, daily check-ins, motivational responses).  
-Scalable to SkillUp, Job Hunt, and more.
+
 
 ## Tech Stack (MVP)
 - Frontend: Expo (React Native)
